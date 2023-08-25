@@ -1,0 +1,85 @@
+Problem-1;
+
+//Print "Masai School" in the console followed by "A Transformation in Education" in next line//
+
+let name = "Masai School";
+
+name = "Masai School";
+
+console.log(name);
+
+let a = "A Transformation of Education";
+
+console.log(a);
+
+Problem-2;
+
+//Define a variable called name with your Name as the assigned value
+  Print the value stored in the variable name
+  Change the variable to store your father's name
+  Print the value stored in the variable name
+  Change the variable again to store your mother's name.
+  Print the value stored in the variable name//
+
+var name = "Anshuman Chaturvedi";
+
+console.log(name);
+
+var name = "Sukhendra Chaturvedi";
+
+console.log(name);
+var name = "Archana Chaturvedi";
+console.log(name);
+
+Problem-3;
+
+//Create a variable name to store your name
+ Create a variable age to store your age
+ Print the values stored in the variable on one line followed by the type of the variable in the next line//
+
+let name = "Anshuman Chaturvedi";
+
+ age = 26;
+
+console.log(name,age);
+
+console.log(typeof(name),typeof(age));
+
+Problem-4;
+
+//Store the name, school, grade, section, rollno and the marks scored by the student in 3 subjects
+  Print the report card of the student (You can make it look nice by using some keyboard symbols )
+  Explore ASCII ART (https://en.wikipedia.org/wiki/ASCII_art (Links to an external site.)) or Text Art (https://fsymbols.com/text-art/          (Links to an external site.)) for some inspiration //
+
+console.log(`🆁🅴🅿🅾🆁🆃🅲🅰🆁🅳 `);
+console.log(`🆁🅴🆂🆄🅻🆃`);
+console.log("******RESULT😊******");
+const a = "Name - Suresh";
+const b = "School - Bal Bharti Senior Secondary School";
+const c = "Grade - 1st";
+const d = "Section - A";
+const e = "Roll no. - 1234";
+
+console.log(a);
+console.log(b);
+console.log(c);
+console.log(d);
+console.log(e);
+
+
+console.log("*********  😎MARKS OBTAINED😎  *********");
+let subject1 = "Science";
+let subject2 = "Maths";
+let subject3 = "Hindi";
+console.log("Science    Maths     Hindi");
+mark = "50";
+mark = "70";
+mark = "96";
+console.log("  50        70        96");
+
+
+
+
+
+
+
